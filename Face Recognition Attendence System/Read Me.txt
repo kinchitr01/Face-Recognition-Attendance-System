@@ -1,9 +1,0 @@
-Add Packages for System
--pip install opencv-face-recognition
--pip install mysql-connector-python
--pip install pywin32
--pip install tkcalendar
--pip install opencv-contrib-python
-
-Install MySQL Shell,server and workbench
--Change the path of images
